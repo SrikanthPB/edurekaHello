@@ -5,7 +5,7 @@ public void static main ( String args[])
 
 {
 
-System.out.println("hello from child");
+System.out.println("hello from ramesh");
 
 }
 }
